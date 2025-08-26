@@ -2,7 +2,9 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/91212230-5c1f-4664-8872-76eb589475fe
+**URL**: https://life-vest-ai.lovable.app/ 
+
+a website type thing of how the app is going to look.
 
 ## How can I edit this code?
 
